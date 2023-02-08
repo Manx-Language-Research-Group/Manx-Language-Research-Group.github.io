@@ -2030,6 +2030,13 @@ ul.clear-list:first-child {
   }
 }
 
+.header-image {
+  width: 100%;
+  object-fit: cover;
+  object-position: 10% 10%;
+  max-height: 110px;
+}
+
 body {
   &.body-small .vote-icon {
     display: none;
