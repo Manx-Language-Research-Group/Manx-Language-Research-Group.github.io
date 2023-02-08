@@ -2007,6 +2007,29 @@ ul.clear-list:first-child {
   }
 }
 
+.member-list {
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+@media (max-width: 600px) {
+  .member-list {
+    columns: 2;
+  }
+}
+
+@media (min-width: 600px) {
+  .member-list {
+    columns: 3;
+  }
+}
+
+@media (min-width: 1000px) {
+  .member-list {
+    columns: 4;
+  }
+}
+
 body {
   &.body-small .vote-icon {
     display: none;
@@ -2628,9 +2651,9 @@ body {
   .social-icon a {
     background: #3385FF;
     color: #fff;
-    padding: 4px 8px;
-    height: 28px;
-    width: 28px;
+    padding: 4px 4px;
+    height: 36px;
+    width: 36px;
     display: block;
     border-radius: 50px;
     &:hover {
