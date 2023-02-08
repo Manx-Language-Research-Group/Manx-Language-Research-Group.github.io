@@ -8,7 +8,25 @@
     <div class="row">
         <ul class="member-list">
             {% for member in site.members %}
-            <li>{{ member.name }}</li>
+            <li>
+                {% assign fullorcid = member.orcid |prepend: 'https://orcid.org/'%}
+                {% assign url =  member.url | default: fullorcid  %}
+                {% if member.url or member.orcid %}
+                    <a href="{{url}}">
+                {% endif %}
+                        
+                {{ member.name }}
+
+                {% if member.url and member.orcid %}
+                        </a>
+                        (<a href="{{fullorcid}}">ORCID</a>)
+                        <a href="{{url}}">
+                {% endif %}
+
+                {% if member.url or member.orcid %}
+                    </a>
+                {% endif %}
+            </li>
             {% endfor %}
         </ul>
         <div style="padding-top: 1em"></div>
