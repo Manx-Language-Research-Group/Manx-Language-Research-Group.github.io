@@ -16,6 +16,22 @@
 #  present: true
 
 - name:
+    detail: Joined Jeebin
+    i18n: company_b
+  date:
+    detail: Jan. 2022
+    i18n: company_b_date
+  icon: fa-plus-square
+
+- name:
+    detail: Subcommittee member of Yn&nbsp;Çheshaght&nbsp;Ghailckagh
+    i18n: company_b
+  date:
+    detail: Nov. 2022
+    i18n: company_b_date
+  icon: fa-plus-square
+
+- name:
     detail: Founded
     i18n: company_b
   date:
