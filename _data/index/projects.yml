@@ -11,3 +11,11 @@
   showRepo: false
   desc: The world's largest collection of computer-readable bilingual texts and audio transcriptions for the Manx Language.
 
+- name: Manx Website Archives
+  i18n: archive
+  img: /static/assets/img/landing/manx_archive_phil_kelly.gif
+  url: https://archive.gaelg.im/www.gaelg.iofm.net/EMENU.html
+  # not when we have 0 stars!
+  showRepo: false
+  desc: Archive of Phil Kelly's gaelg.iofm.net website (c. 2004) 
+
