@@ -2041,6 +2041,11 @@ ul.clear-list:first-child {
   font-size: larger;
 }
 
+.pdf-icon {
+  background: url(/static/assets/img/Icon_pdf_file.png) no-repeat right;
+  padding: 8px 20px 8px 0;
+}
+
 body {
   &.body-small .vote-icon {
     display: none;

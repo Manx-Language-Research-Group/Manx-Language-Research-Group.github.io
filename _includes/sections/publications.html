@@ -12,8 +12,8 @@
         {% assign visible_publications = site.data.index.publications | where_exp:"item", "item.hide != true" %}
             
         {% for publication in visible_publications limit: 10 %}
-            <li class="publication-item">
-                ({{ publication.author | join: "; " }}, {{ publication.date | date: "%Y" }}) <a href="{{ publication.pdf | prepend: publicationUrl }}">
+            <li>
+                ({{ publication.author | join: "; " }}, {{ publication.date | date: "%Y" }}) <a href="{{ publication.pdf | prepend: publicationUrl }}" class="publication-item pdf-icon">
                     {{ publication.name }} 
                 </a> 
             </li>
