@@ -29,12 +29,21 @@
   date:
     detail: Nov. 2022
     i18n: company_b_date
-  icon: fa-plus-square
+  icon: fa-users
+  # TODO: fa-users-rectangle
 
 - name:
-    detail: Founded
+    detail: Possan Ronsee Gaelgagh Founded
     i18n: company_b
   date:
     detail: Nov. 2022
     i18n: company_b_date
-  icon: fa-plus-square
+  icon: fa-group
+
+- name:
+    detail: Corpus Search Launched
+    i18n: company_b
+  date:
+    detail: Jun. 2021
+    i18n: company_b_date
+  icon: fa-globe
