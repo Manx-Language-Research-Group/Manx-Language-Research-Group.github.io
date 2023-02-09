@@ -8,6 +8,8 @@ url: https://manx-language-research-group.github.io/
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
+noindex: true
+
 members:
 
 # author -- index page "about me" section
