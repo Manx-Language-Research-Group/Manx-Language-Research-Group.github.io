@@ -19,7 +19,7 @@
   css: publications
   
 - id: history
-  i18n: nav.career
+  i18n: nav.history
   name: History
   tpl: history.html
   css: timeline
