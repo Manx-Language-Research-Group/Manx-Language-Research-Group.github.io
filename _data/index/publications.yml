@@ -54,6 +54,14 @@
   doc: "Carrey_yn_Pheccagh_B_as_G.docx"
   pdf: "Carrey_yn_Pheccagh_B_as_G.pdf"
   date: 2021-07-01
+  
+- name: "Taggloo Crauee eddyr Bochil Anmey as Fer jeh e Hioltane, c. 1809"
+  author: ["Dr Christopher Lewin", "Max W. Wheeler"]
+  hide: true
+  notes: "An anonymous translation of Thomas Vivian’s Three Dialogues between a Minister and one of his Parishioners."
+  doc: "Taggloo_crauee_B_as_G_final.docx"
+  pdf: "Taggloo_crauee_B_as_G_final.pdf"
+  date: 2021-07-01
 
 - name: "A newly identified manuscript of metrical psalms in Manx Gaelic"
   provisional_name: true
@@ -331,3 +339,8 @@
   pdf: "Cregeen_Proverbs.pdf"
   notes: "These Manx proverbs and sayings are assembled from Archibald Cregeen, A Dictionary of the Manx Language…, Douglas: Quiggin, etc., 1835. The translations are mostly from the edition revised by J. J. Kneen and others, published in 1910, reprinted by Yn Çheshaght Ghailckagh, Ilkley: Moxon Press, 1984. I have revised the capitalization and punctuation, and added cedillas (ç), but otherwise left the 1835 spelling unchanged. Nearly all of Cregeen’s proverbs and sayings are collected, with some others, and translated, in G. W. Wood’s article mentioned in footnote 2 below. The numbers in column 3 below correspond to the numbering in Wood’s article. The symbol ~ means that the form of the proverb or saying in Wood is a little different from that in Cregeen. Where the translations differ, those of Kneen et al. are generally superior, though not always. Where Wood’s translations seem better, I have included them with the initials GWW. A few translations are my own, indicated with MW. "
   date: 2015-01-01
+  
+- name: "Thomas Christian, Pargys Caillit (1796), as published in Manx Miscellanies No. 1, Douglas: The Manx Society, 1872."
+  author: "Max W. Wheeler"
+  pdf: "Thomas_Christian_Pargys_Caillit_1872_edition.pdf"
+  date: 2014-03-01
