@@ -9,6 +9,12 @@
 #  author: "Max W. Wheeler"
 #  No date
 
+#- name: "Aght giare dy heet gys tushtey as toiggal jeh’n chredjue Creestee, ayns daa ayrn by John Clague. Edited and set alongside the English original of Henry Crossman"
+#  author: "Max W. Wheeler"
+#  no date:
+#  Hymnyn son Paitchyn.docx
+#  G W Wood, Proverbs and sayings of the Isle of Man
+
 - name: "Scripture Extracts; stating the Doctrines and Duties of the Christian Religion, edited and set alongside the English original"
   provisional_name: true
   author: "Max W. Wheeler"
@@ -81,6 +87,12 @@
   hide: true
   date: 2021-06-01
 
+- name: "Kelly’s English-Manx Dictionary"
+  author: "Max W. Wheeler"
+  date: 2020-05-01
+  doc: "Fockleyr_J_Kelly_e2m_text_clean.docx"
+  pdf: "Fockleyr_J_Kelly_e2m_text_clean.pdf"
+  
 - name: "Psalmyn Ghavid. A critical parallel text edition of the two Manx translations of the Psalms, alongside the English"
   author: "Max W. Wheeler"
   pdf: "Psalmyn_Ghavid_A_critical_parallel_text.pdf"
@@ -90,11 +102,18 @@
   author: "Max W. Wheeler"
   pdf: "Phillips_Manx_translation_of_the_Psalms.pdf"
   date: 2019-12-01
+
+- name: "Manninagh As Baarlagh Liorish Juan Y Kelly"
+  author: "Max W. Wheeler"
+  doc: "Fockleyr_J_Kelly_m2e_CORR_clean.docx"
+  pdf: "Fockleyr_J_Kelly_m2e_CORR_clean.pdf"
+  date: 2019-10-01
   
 - name: "Psalmyn currit ayns Drane Ghaelgagh (1761). Manx metrical psalms. (Revised March 2019)"
   author: "Max W. Wheeler"
   notes: "Text of the selection of 28 Psalms, plus a few hymns, put into Manx verse in 1761 by Robert Radcliff and Matthias Curghey, edited from the 1777 edition of the Manx Book of Common Prayer, with variants from the first 1769 edition. In this revised edition (February 2019), the Manx is set alongside the text of the metrical psalms of Tate & Brady, from which they were translated."
   pdf: "Psalmyn_currit_ayns_Drane_Ghaelgagh_1761.pdf"
+  doc: "Metrical Psalms 1777_Rev2.docx"
   date: 2019-03-01
   
 - name: "The Manx Metrical Psalms of John Clague (1809) edited and placed alongside the English originals of Tate and Brady"
@@ -112,8 +131,9 @@
   author: ["Max W. Wheeler", "Dr. Christopher Lewin"]
   hide: true
   pdf: "Lioar_dy_Hymnyn_A_critical_edition_of_th.pdf"
+  doc: "Lioar_dy_Hymnyn_crit_ed_31.01.2019.docx"
   notes: "Four collections of hymn texts in Manx were published during the period when Manx was in regular use as a community language. Nearly all the texts are versions of English hymns, in the same metre, and intended to be sung to the same tunes. We here label the four hymn collections as A (1795), B (1799), C (1830) and D (1846), respectively. The text we give is basically that of D, as being the most complete text, the latest revision, and the most standard in orthography. Variants of the earlier editions are indicated in the margin. Errors in D are corrected, with D’s text indicated in the margin."
-  date: 2019-01-01
+  date: 2019-01-31
   
 - name: "Notes on spelling preferences and variation in the Manx Bible"
   author: "Max W. Wheeler"
