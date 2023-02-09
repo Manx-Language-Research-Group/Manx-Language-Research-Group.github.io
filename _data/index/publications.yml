@@ -1,19 +1,18 @@
 # Illiam_as_Ysbal.docx
 # Illiam_as_Ysbal.pdf
-# Ruleyn_yn_Pobble_Enmyssit_Methodistyn_MW.docx - comments
 # Smooinaghtyn_Crauee_mychione_Beaynid_B_as_G.docx - no attribution
-#- name: "Ard-firrinysyn (2)_MW"
-#  provisional_name: true
-#  doc: "Ard-firrinysyn_MW.docx"
-#  pdf: "Ard-firrinysyn_MW.pdf"
-#  author: "Max W. Wheeler"
-#  No date
-
-#- name: "Aght giare dy heet gys tushtey as toiggal jeh’n chredjue Creestee, ayns daa ayrn by John Clague. Edited and set alongside the English original of Henry Crossman"
-#  author: "Max W. Wheeler"
-#  no date:
 #  Hymnyn son Paitchyn.docx
-#  G W Wood, Proverbs and sayings of the Isle of Man
+
+- name: "Ard-Firrinysyn Liorish yn Sag. Ean Wesley"
+  doc: "Ard-firrinysyn_MW.docx"
+  pdf: "Ard-firrinysyn_MW.pdf"
+  author: ["Max W. Wheeler", "Rob Teare"]
+  date: 2021-09-01
+
+- name: "Ruleyn yn Pobble Enmyssit Methodistyn. A Manx translation of The Nature, Design, And General Rules of the Methodist Societies, edited and set alongside the English original"
+  author: "Rob Teare"
+  pdf: "Ruleyn_yn_Pobble_Enmyssit_Methodistyn_MW.pdf"
+  date: 2021-08-01
 
 - name: "Scripture Extracts; stating the Doctrines and Duties of the Christian Religion, edited and set alongside the English original"
   provisional_name: true
@@ -30,7 +29,7 @@
 
 
 - name: "Coontey jeh Dunnallys as Baase Maynrey Jamys Covey A Manx translation of An Account of the Bravery and Happy Death of James Covey, by Rev. John Griffin,"
-  author: ["Dr Christopher Lewin", "Max W. Wheeler"]
+  author: ["Dr. Christopher Lewin", "Max W. Wheeler"]
   hide: true
   pdf: "Coontey_jeh_Dunnallys_Covey_rev.pdf"
   doc: "Coontey_jeh_Dunnallys_Covey_rev.docx"
@@ -49,14 +48,14 @@
   date: 2021-08-01
   
 - name: "Carrey yn Pheccagh, 1838. a translation into Manx Gaelic by the Rev. Thomas Howard, Rector of Ballaugh, of The Sinner’s Friend, (1821), by John Vine Hall"
-  author: ["Dr Christopher Lewin", "Max W. Wheeler"]
+  author: ["Dr. Christopher Lewin", "Max W. Wheeler"]
   hide: true
   doc: "Carrey_yn_Pheccagh_B_as_G.docx"
   pdf: "Carrey_yn_Pheccagh_B_as_G.pdf"
   date: 2021-07-01
   
 - name: "Taggloo Crauee eddyr Bochil Anmey as Fer jeh e Hioltane, c. 1809"
-  author: ["Dr Christopher Lewin", "Max W. Wheeler"]
+  author: ["Dr. Christopher Lewin", "Max W. Wheeler"]
   hide: true
   notes: "An anonymous translation of Thomas Vivian’s Three Dialogues between a Minister and one of his Parishioners."
   doc: "Taggloo_crauee_B_as_G_final.docx"
@@ -68,6 +67,12 @@
   author: "Max W. Wheeler"
   doc: "Metrical_Psalms_MS_edition.docx"
   pdf: "Metrical_Psalms_MS_edition.pdf"
+  date: 2021-06-01
+
+- name: "Aght giare dy heet gys tushtey as toiggal jeh’n chredjue Creestee, ayns daa ayrn by John Clague. Edited and set alongside the English original of Henry Crossman"
+  author: ["Dr. Christopher Lewin", "Max W. Wheeler"]
+  hide: true
+  pdf: "AGHT_GIARE G_as_B_CL-MW.pdf"
   date: 2021-06-01
 
 - name: "Banglaneyn Credjue Agglish Hostyn. The 39 Articles of the Church of England in Manx Gaelic, 1822"
@@ -89,7 +94,7 @@
   date: 2021-08-01
 
 - name: "Yn Fer-raauee Creestee (1763). Translating John Rawlet’s The Christian Monitor, edited and set alongside the English"
-  author: ["Dr Christopher Lewin", "Max W. Wheeler"]
+  author: ["Dr. Christopher Lewin", "Max W. Wheeler"]
   doc: "Yn_Fer-raauee_Creestee_Manx_and_English.docx"
   pdf: "Yn_Fer-raauee_Creestee_Manx_and_English.pdf"
   hide: true
@@ -100,6 +105,12 @@
   date: 2020-05-01
   doc: "Fockleyr_J_Kelly_e2m_text_clean.docx"
   pdf: "Fockleyr_J_Kelly_e2m_text_clean.pdf"
+  
+- name: "Parnell's The Hermit. Manx text edited by Robert L. Thomson, set alongside the English"
+  author: "Max W. Wheeler"
+  doc: "Parnell_The_Hermit_ed_Thomson_G_as_B_table_borders.docx"
+  pdf: "Parnell_The_Hermit_ed_Thomson_G_as_B_table_borders.pdf"
+  date: 2021-02-01
   
 - name: "Psalmyn Ghavid. A critical parallel text edition of the two Manx translations of the Psalms, alongside the English"
   author: "Max W. Wheeler"
@@ -136,7 +147,7 @@
   date: 2019-01-01
   
 - name: "Lioar dy Hymnyn. A critical edition of the four Manx Gaelic hymn books printed 1795-1846"
-  author: ["Max W. Wheeler", "Dr. Christopher Lewin"]
+  author: ["Dr. Christopher Lewin", "Max W. Wheeler"]
   hide: true
   pdf: "Lioar_dy_Hymnyn_A_critical_edition_of_th.pdf"
   doc: "Lioar_dy_Hymnyn_crit_ed_31.01.2019.docx"
@@ -333,6 +344,13 @@
   pdf: "Manx_Gaelic_inflection_1_Noun_plurals.pdf"
   notes: "Of the grammatical works on Manx Gaelic, it is A. Cregeen’s A Dictionary of the Manks Language that provides by far the most detail of inflectional morphology. And it was prepared at a time when Manx was a living community language with a large number of native speakers. In this series of studies, I attempt to extract from the dictionary Cregeen’s contribution to a descriptive grammar of ‘Classical Manx’ —the language of written texts of the period 1700-1830. The information on plural inflections that follows in this first section is derived from Cregeen’s Dictionary, as are the meanings given. Where Cregeen mentions alternative inflections, I have added some information about usage in the Manx Bible. The classification of the inflectional patterns, however, is my own."
   date: 2015-04-01
+
+- name: "On the Classification of Proverbs and Sayings of the Isle of Man."
+  doc: "G_W_Wood_Proverbs_and_sayings_of_the_Isle_of_Man.docx"
+  pdf: "G_W_Wood_Proverbs_and_sayings_of_the_Isle_of_Man.pdf"
+  author: ["Max W. Wheeler", "Rob Teare"]
+  date: 2015-01-01
+  
   
 - name: "Cregeen’s proverbs and sayings"
   author: "Max W. Wheeler"
