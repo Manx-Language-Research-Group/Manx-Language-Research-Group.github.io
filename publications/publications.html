@@ -1,0 +1,87 @@
+---
+layout: blog
+title: Publications
+permalink: /publications/
+---
+
+<div class="row">
+    <div class="col-lg-12 text-center">
+        <div class="navy-line"></div>
+        <h1>Latest Publications</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2">
+        <div class="wrapper wrapper-content animated fadeInRight">
+            {% assign publicationUrl = '/static/assets/publications/' %}
+
+            {% assign visible_publications = site.data.index.publications | where_exp:"item", "item.hide != true" %}
+			{% for publication in visible_publications %}
+            <div class="vote-item">
+                <div class="row">
+                    <div class="col-md-10">
+
+                        {% if publication.superseded_by %}
+                        <details>
+                            <summary class="vote-title" style="display: revert; color: orange">
+                                Superseded: {{ publication.name }}
+                            </summary>
+                            <span class="vote-info" style="color: orange">
+                                Superseded by "{{publication.superseded_by}}"
+                            </span>
+                        {% endif %}
+                        <div class="vote-actions">
+                        </div>
+                        <a href="{{ publication.pdf | prepend: publicationUrl }}" target="_blank" class="vote-title">
+                            {{ publication.name }}
+                        </a>
+                            
+                        {% if publication.notes %}
+                        <div class="vote-info" style="padding-bottom: 0.5em; padding-top: 0.5em; color: #585b5d;">
+                            <details>
+                                <summary style="display: revert">Summary</summary>
+                                {{publication.notes}}
+                            </details>
+                        </div>
+                        {% endif %}                     
+                        
+                        {% if publication.pdf %}
+                        <div>
+                            <a href="{{ publication.pdf | prepend: publicationUrl }}" target="_blank" class="vote-info" style="color: #585b5d;" download>
+                                Download PDF
+                            </a>
+                        </div>
+                        {% endif %}
+
+                        {% if publication.doc %}
+                        <div>
+                            <a href="{{ publication.doc | prepend: publicationUrl }}" class="vote-info"  style="color: #585b5d;" download>
+                                Download DOCX
+                            </a>
+                        </div>
+                        {% endif %}
+                        <div style="padding-top: 0.5em;"></div>
+                        <div class="vote-info">
+                            <i class="fa fa-clock-o"></i> <a>{{ publication.date | date: "%B %Y" }}</a>
+                            <i class="fa fa-user"></i> <a>{{ publication.author | join: "; " }}</a>
+                        </div>
+
+                        {% if publication.superseded_by %}
+                        </details>
+                        {% endif %}
+
+                    </div>
+                    <div class="col-md-2 ">
+                        <div class="vote-icon">
+                            {% if post.icon %}<i class="fa {{ post.icon }}"> </i>{% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>
+

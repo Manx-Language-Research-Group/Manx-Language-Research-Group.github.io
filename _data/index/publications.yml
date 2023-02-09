@@ -1,7 +1,306 @@
-- name: "Lorem Ipsum"
-  author: "Dolor, sit"
-  date: 2023
+# Illiam_as_Ysbal.docx
+# Illiam_as_Ysbal.pdf
+# Ruleyn_yn_Pobble_Enmyssit_Methodistyn_MW.docx - comments
+# Smooinaghtyn_Crauee_mychione_Beaynid_B_as_G.docx - no attribution
+#- name: "Ard-firrinysyn (2)_MW"
+#  provisional_name: true
+#  doc: "Ard-firrinysyn_MW.docx"
+#  pdf: "Ard-firrinysyn_MW.pdf"
+#  author: "Max W. Wheeler"
+#  No date
   
-- name: "Lorem Ipsum"
-  author: "Amet, Consectetur"
-  date: 2022
+- name: "Scripture Extracts; stating the Doctrines and Duties of the Christian Religion edited and placed alongside the English original"
+  provisional_name: true
+  author: "Max W. Wheeler"
+  pdf: "Aarnyn_goit_voish_Scriptyr_B_as_G.pdf"
+  notes: "Aarnyn goit voish Scriptyr ta Soilshaghey Ynsagh as Curmyn yn Chredjue Chreestee. Manx translation of Scripture Extracts; stating the Doctrines and Duties of the Christian Religion, (Religious Tract Society, First series, no. 67). "
+  date: 2021-08-01
+  
+- name: "Balley-beg ayns sleityn y Raank. A Manx translation of The Village in the Mountains, edited and set alongside the original"
+  author: "Max W. Wheeler"
+  doc: "Balley-beg_ayns_Sleityn_y_Raank_B_as_G.docx"
+  pdf: "Balley-beg_ayns_Sleityn_y_Raank_B_as_G.pdf"
+  date: 2021-08-01
+
+
+- name: "Coontey jeh Dunnallys as Baase Maynrey Jamys Covey A Manx translation of An Account of the Bravery and Happy Death of James Covey, by Rev. John Griffin,"
+  author: ["Dr Christopher Lewin", "Max W. Wheeler"]
+  hide: true
+  pdf: "Coontey_jeh_Dunnallys_Covey_rev.pdf"
+  doc: "Coontey_jeh_Dunnallys_Covey_rev.docx"
+  date: 2021-08-01
+
+- name: "Shey Homileeyn Oikoil jeh Agglish Hostyn Edited and set alongside the English originals "
+  author: "Max W. Wheeler"
+  pdf: "Homileeyn_B_as_G.pdf"
+  doc: "Homileeyn_B_as_G.docx"
+  date: 2021-08-01
+
+- name: "Joseph Boght: a religious tract in Manx translated from the English, c. 1822."
+  author: "Max W. Wheeler"
+  pdf: "Joseph_Boght_B_as_G.pdf"
+  doc: "Joseph_Boght_B_as_G.docx"
+  date: 2021-08-01
+  
+- name: "Carrey yn Pheccagh, 1838. a translation into Manx Gaelic by the Rev. Thomas Howard, Rector of Ballaugh, of The Sinner’s Friend, (1821), by John Vine Hall"
+  author: ["Dr Christopher Lewin", "Max W. Wheeler"]
+  hide: true
+  doc: "Carrey_yn_Pheccagh_B_as_G.docx"
+  pdf: "Carrey_yn_Pheccagh_B_as_G.pdf"
+  date: 2021-07-01
+  
+- name: "Banglaneyn Credjue Agglish Hostyn. The 39 Articles of the Church of England in Manx Gaelic, 1822"
+  author: "Max W. Wheeler"
+  doc: "Banglaneyn.docx"
+  pdf: "Banglaneyn.pdf"
+  date: 2021-06-01
+  
+- name: "Lewis’s Catechism in Manx Gaelic, 1769 edited alongside the English"
+  author: "Max W. Wheeler"
+  pdf: "Lewis_Catechism_B_as_G.pdf"
+  doc: "Lewis_Catechism_B_as_G.docx"
+  date: 2021-06-01
+
+- name: "Padjer y Looder; ny Baght er ny Choyrt er e Loo (c. 1822). A Manx tract, translating The Swearer’s Prayer; or his Oath Explained (c. 1820). Edited and set alongside the original"
+  author: "Max W. Wheeler"
+  doc: "Padjer_y_Looder_B_as_G.docx"
+  pdf: "Padjer_y_Looder_B_as_G.pdf"
+  date: 2021-08-01
+
+- name: "Yn Fer-raauee Creestee (1763). Translating John Rawlet’s The Christian Monitor. Edited and set alongside the original"
+  author: ["Dr Christopher Lewin", "Max W. Wheeler"]
+  doc: "Yn_Fer-raauee_Creestee_Manx_and_English.docx"
+  pdf: "Yn_Fer-raauee_Creestee_Manx_and_English.pdf"
+  hide: true
+  date: 2021-06-01
+
+- name: "Psalmyn Ghavid. A critical parallel text edition of the two Manx translations of the Psalms, alongside the English"
+  author: "Max W. Wheeler"
+  pdf: "Psalmyn_Ghavid_A_critical_parallel_text.pdf"
+  date: 2020-02-01
+  
+- name: "Phillips' Manx translation of the Psalms (MNH MS 00003). Corrected"
+  author: "Max W. Wheeler"
+  pdf: "Phillips_Manx_translation_of_the_Psalms.pdf"
+  date: 2019-12-01
+  
+- name: "Psalmyn currit ayns Drane Ghaelgagh (1761). Manx metrical psalms. (Revised March 2019)"
+  author: "Max W. Wheeler"
+  notes: "Text of the selection of 28 Psalms, plus a few hymns, put into Manx verse in 1761 by Robert Radcliff and Matthias Curghey, edited from the 1777 edition of the Manx Book of Common Prayer, with variants from the first 1769 edition. In this revised edition (February 2019), the Manx is set alongside the text of the metrical psalms of Tate & Brady, from which they were translated."
+  pdf: "Psalmyn_currit_ayns_Drane_Ghaelgagh_1761.pdf"
+  date: 2019-03-01
+  
+- name: "The Manx Metrical Psalms of John Clague (1809) edited and placed alongside the English originals of Tate and Brady"
+  author: "Max W. Wheeler"
+  pdf: "The_Manx_Metrical_Psalms_of_John_Clague.pdf"
+  date: 2019-02-01
+  
+- name: "Yn Sushtal scruit liorish yn Noo Mian. The Gospel according to St Matthew, translated into Manx Gaelic and published in 1748"
+  author: "Max W. Wheeler"
+  pdf: "Yn_Sushtal_scruit_liorish_yn_Noo_Mian_Th.pdf"
+  notes: "The current edition, in which the Manx text is set alongside the English of the Authorized Version, from which it was translated, forms part of a corpus of digitalized texts of the Classical Period (1700-1850) prepared primarily to support the study of the Manx language of that age."
+  date: 2019-01-01
+  
+- name: "Lioar dy Hymnyn. A critical edition of the four Manx Gaelic hymn books printed 1795-1846"
+  author: ["Max W. Wheeler", "Dr. Christopher Lewin"]
+  hide: true
+  pdf: "Lioar_dy_Hymnyn_A_critical_edition_of_th.pdf"
+  notes: "Four collections of hymn texts in Manx were published during the period when Manx was in regular use as a community language. Nearly all the texts are versions of English hymns, in the same metre, and intended to be sung to the same tunes. We here label the four hymn collections as A (1795), B (1799), C (1830) and D (1846), respectively. The text we give is basically that of D, as being the most complete text, the latest revision, and the most standard in orthography. Variants of the earlier editions are indicated in the margin. Errors in D are corrected, with D’s text indicated in the margin."
+  date: 2019-01-01
+  
+- name: "Notes on spelling preferences and variation in the Manx Bible"
+  author: "Max W. Wheeler"
+  pdf: "Spelling_preferences_and_variation_in_the_Manx_Bible.pdf"
+  notes: "The Bible is by far our most extensive repository of ‘standard’ Manx, of which orthography is a part. Some recent work on proof-reading the Bible text (and Apocryphal books) for Yn Vible Ghaelgagh online https://manx.global.bible/ has brought into focus exactly what this standard consists of. Though in a good number of cases there is variation in spelling, often this variation displays a strong preference. I record below as preferred spellings those which dominate over alternatives in a proportion of 2:1 or more. After that I list most of the words where the alternatives are more evenly matched."
+  date: 2019-01-01
+  
+- name: "Who spoke Manx in Lezayre at the beginning of the 20th century?"
+  author: "Max W. Wheeler"
+  pdf: "Who_spoke_Manx_in_Lezayre_at_the_beginni.pdf"
+  notes: "In an earlier article, I identified those in Kirk Michael Parish who were recorded in the 1901 and 1911 censuses as speakers of Manx. Here I attempt to do something similar for the parish of Lezayre, including those parts of Ramsey town lying in Lezayre Civil Parish. I focus now more specifically on the households that contained one or more Manx speakers. And in such households in which members of more than one generation were present, we may observe, and to some degree date, the break in intergenerational transmission of the Manx language."
+  date: 2018-02-01
+  
+- name: "Fockleyr Chregeen aa-orderit. New edition. Feb. 2018"
+  author: "Max W. Wheeler"
+  pdf: "Fockleyr_Chregeen_aa_orderit_New_edition.pdf"
+  notes: "In this revised edition, in addition to correcting errors and omissions of the 2015 edition of Cregeen’s Manx Dictionary, I have restored those elements which have been missing in all editions since the original of 1835. In the light of the present-day unfamiliarity of the English of many of Cregeen’s glosses, I have also supplied some 280 explanations of his terms, using the Oxford English Dictionary or Wright’s English Dialect Dictionary. The introduction is considerably expanded, explaining the recently discovered multiple variation in prints of the so-called first edition, and including historical information concerning the original publication and its aftermath."
+  date: 2018-02-01
+  
+- name: "Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’ in Classical Manx (Revised 2018)"
+  author: "Max W. Wheeler"
+  pdf: "Manx_Gaelic_inflection_6_Initial_mutatio.pdf"
+  notes: "The first version of this paper (July 2015) reviewed the evidence for the initial mutations after the er 'Perfect tense' particle in the Manx Bible, including the Apocryphal books. The current version extends the study to a broader corpus of Classical Manx (1700-1850) and corrects and updates some of the earlier observations, especially as regards variation with f-initial verbs, and with vowel-initial verbs."
+  date: 2018-02-01
+  
+- name: "Thomas Wilson's Sermons 1-12 Manx and English with preface"
+  author: ["Dr. Christopher Lewin", "Max W. Wheeler"]
+  hide: true
+  pdf: "Thomas_Wilsons_Sermons_1_12_Manx_and_Eng.pdf"
+  notes: "Edited by Christopher Lewin and Max W. Wheeler"
+  date: 2018-01-01
+  
+- name: "Is there 'homorganic inhibition' in Classical Manx? A corpus investigation"
+  author: ["Max W. Wheeler", "Rob Teare"]
+  pdf: "Is_there_homorganic_inhibition_in_Classi.pdf"
+  notes: "‘Homorganic inhibition’ in the Gaelic languages refers to the situation where expected lenition of a word-initial consonant fails when the final consonant of the preceding ‘trigger’ word has the same place of articulation. The cases usually focused on are those where a word-initial coronal obstruent is preceded by a word also ending in a coronal, though we can legitimately ask whether anything similar might be seen when a word-initial velar is preceded by a velar, or a word-initial labial, by a labial. (There is known to have been homorganic inhibition more generally in earlier periods of the Gaelic languages.) We consider the several grammatical contexts in which expected lenition might be inhibited, looking at evidence from our corpus of Classical Manx texts."
+  date: 2017-11-01
+  
+- name: "Prepositional nominals in Manx Gaelic (revised Nov. 2017)"
+  author: "Max W. Wheeler"
+  pdf: "Prepositional_nominals_in_Manx_Gaelic_re.pdf"
+  notes: "Alongside true prepositions, such as fo ‘under’, lesh ‘with’, that are inflected with suffixes expressing personal pronoun objects (foym ‘under me’, lhiam ‘with me’, etc.), Manx has a number of expressions with broadly prepositional meaning that behave grammatically in some respects like nouns, and for the most part are derived from nouns. The personal pronoun objects of these prepositional nominals are expressed by means of possessive (genitive) constructions, as in my chooyl ‘behind me’, nyn drooid or ny hrooid oc ‘through them’. In this paper, I describe the usage of twenty-one such items in Classical Manx (c. 1700-1850)."
+  date: 2017-11-01
+  
+- name: "Stative predicates with possessives in Classical Manx (Revised October 2017)"
+  author: "Max W. Wheeler"
+  pdf: "Stative_predicates_with_possessives_in_C.pdf"
+  notes: "Manx has a small number —eight— of stative predicates that are constructed with possessive pronouns, as in ta mee my hassoo ‘I am standing’. Most of these items are undoubtedly verbal, that is, they are also constructed as ordinary verbs: cadley ‘sleeping’, lhie ‘lying’, shassoo ‘standing’, soie ‘sitting’, trostey ‘fasting’. However, taaue ‘idle’, and tost ‘silent’ do not have independent verbal uses in Manx, though their cognates in other Gaelic languages have: Sc. G. tàmh v. ‘reside, stay’ (tàmh n. ‘inactivity, idleness’), Ir. tost v. ‘fall silent’ (tost n. ‘silence’). Lomarcan ‘alone’, ‘only’ occurs only in this possessive construction, and, indeed, ny-lomarcan in the sense ‘only’ is better classified as a restrictive focusing modifier than as a predicate. As predicates of ve ‘be’, these eight stative predicate items are constructed in the same way in Classical and Modern Manx: the possessive pronoun agrees in person and number with the subject of ve. My focus here is what other constructions these predicates are found in in Classical Manx, using my corpus of texts 1700-1850 that are digitally searchable. [Revised version of October 2016 paper]"
+  date: 2017-10-01
+  
+- name: "Manx language in the Census: Kirk Michael, 1901 and 1911"
+  author: "Max W. Wheeler"
+  pdf: "Manx_language_in_the_Census_Kirk_Michael.pdf"
+  notes: "There is some reporting of the census data recording speakers of Manx at the beginning of the 20th century (1901 and 1911) in Broderick (1999: 41-44) , and in Manx Notebook (2000) . But the availability of the complete census records for 1901 and 1911, the first two censuses in which a language question was asked (‘Manx, English, or both?’), allows us to see just who spoke Manx (that is, was recorded as being able to do so) in those years. To give a flavour of what can be known, I have looked at the census forms for Kirk Michael for both years."
+  date: 2017-05-01
+
+- name: "Survey of grammatical gender in Classical Manx"
+  author: "Max W. Wheeler"
+  pdf: "Survey_of_grammatical_gender_in_Classica.pdf"
+  notes: "This study investigates grammatical gender differences in usage as attested in an extensive corpus of digitalized Manx texts from the classical period (1700–1850)."
+  date: 2017-05-01
+    
+- name: "The Principles and Duties of Christianity ... In English and Manks (Coyrle Sodjey), by Thomas Wilson, 1707. Edited by Christopher Lewin and Max W. Wheeler March 2017"
+  author: ["Dr. Christopher Lewin", "Max W. Wheeler"]
+  hide: true
+  pdf: "The_Principles_and_Duties_of_Christianit.pdf"
+  notes: "The Principles and Duties of Christianity, being a Further Instruction for such as have learned the Church-Catechism, For the use of the Diocese of Man. In English and Manks. Together with Short and Plain Directions and Prayers for Particular Persons, For Families, For the Lord’s Day, For the Lords Supper, For the Time of Sickness, &c. By Thomas, Lord Bishop of Sodore and Man, London: Benjamin Motte, 1707, was, as the author announces in the preface, the first book published in Manx. A facsimile with a brief introduction by R. L. Thomson was published by Scolar Press in 1972. Our intention in this edition is to make the original text, in Manx and English, available not only for reading, but more especially for digital searching, to assist in the task of linguistic study of the Manx language of the Classical period (c. 1700-1850)."
+  date: 2017-03-01
+  
+- name: "Thomas Christian. Pargys Caillit. 1872 edition"
+  author: "Max W. Wheeler"
+  pdf: "Thomas_Christian_Pargys_Caillit_1872_edi.pdf"
+  notes: "Thomas Christian, Pargys Caillit, as published in Manx Miscellanies No. 1, Douglas: The Manx Society, 1872. Scanned from the PDF available online, typos corrected, and gratuitous alterations of the 1796 text removed. My changes and additions to the 1872 text are indicated in italic. Suppressions are not marked. The line numbering is that of Thomson’s 1995 edition, which is based on the 1796 print, with the addition of eleven lines omitted in both earlier printed editions and restored by Thomson from a manuscript copy (here in between [ ]). The pagination in the present edition copies that of the 1872 edition."
+  date: 2017-02-01
+  
+- name: "Thomas Christian. Pargys Caillit. 1796 edition"
+  author: "Max W. Wheeler"
+  pdf: "Thomas_Christian_Pargys_Caillit_1796_edi.pdf"
+  notes: "The text is that of the first edition (1796), with a few annotations ‘[sic]’ or ‘[i.e.]’, and correction of obvious typographical errors, indicated in italics. The line numbering is that of Thomson’s 1995 edition, which is based on the 1796 print, with the addition of eleven lines omitted in both earlier printed editions and restored by Thomson from a manuscript copy (here between [ ], as are occasional words omitted from the 1796 edition, and restored by Thomson from the manuscript). The pagination in the present edition copies that of the 1796 edition."
+  date: 2017-02-01
+  
+- name: "CHEILLEY: a contribution to Manx lexicography"
+  author: "Max W. Wheeler"
+  pdf: "CHEILLEY_a_contribution_to_Manx_lexicogr.pdf"
+  notes: "CHEILLEY ‘each other, one another’: reciprocal pronoun. Usage in Classical Manx (1700-1850) extensively illustrated with corpus examples."
+  date: 2016-12-01
+  
+- name: "Variation in Manx lenition: a probe"
+  author: "Max W. Wheeler"
+  pdf: "Variation_in_Manx_lenition_a_probe.pdf"
+  notes: "It is well known that initial consonant lenition in Manx is somewhat variable. Acknowledging this might lead one to suppose that variation, or deviation from the rules, is scattered randomly among the consonants subject to lenition, and among the contexts triggering lenition. In a small study, using a corpus that consists of over 1m words of Classical Manx (1700-1850), I show that this is not the case. Some consonants (specifically s- and f-) are markedly more variable than the rest. Leaving those consonants aside, there are contexts in which the ‘correct’ application of lenition is virtually categorical, such as after dy chooilley ‘every’ (which takes Lenition 1: that is, s-, sh- → h-, and all other lenitable consonants affected). In another context, namely in the prepositional phrase ayns y(n)/’sy(n) ‘in the’ (followed by Lenition 2: that is, s- → t-, sh- → çh-, denti-alveolars t-, çh-, d-, j- not affected, other consonants as Lenition 1), deviation from the rule, for consonants other than s- and f-, is rare but not negligible: 1.74% of lenition failure."
+  date: 2016-12-01
+  
+- name: "Relative future tense in main clauses in Manx Gaelic"
+  author: "Max W. Wheeler"
+  pdf: "Relative_future_tense_in_main_clauses_in.pdf"
+  notes: "The Manx relative future tense occurs not only in future relative clauses (whence its name), but also in other contexts, such as some adverbial subordinate clauses, e.g. after raad ‘where’, tra ‘when’, my ‘if’, and in certain main clauses, as, for example, Shen-y-raad vees keayney as snaggeraght feeacklyn, ‘There shall be weeping and gnashing of teeth’ (Luke 13.28). Of course, positive affirmative future main clauses normally require the independent future tense. The objective of this study is to investigate in what contexts the relative future tense may be used in main clauses in Classical Manx. With that overall focus in mind, I also discuss and illustrate the use of the relative future in subordinate clauses, other than relative clauses themselves, about which I say little. I seek to establish in what contexts the relative future is required, in what contexts it is excluded, and in what contexts its use is variable. The bulk of the exemplification involves the future tense of ve ‘be’; there are 1001 cases of the forms vee’m, veem’s, vees or vees mayd, the relative future paradigms of ve, in the Manx Bible, alongside well over 3000 of the independent and dependent future tense of ve (bee’m, beem’s, bee, bee mayd)."
+  date: 2016-11-01
+  
+  
+- name: "Prepositional nominals in Manx Gaelic"
+  author: "Max W. Wheeler"
+  superseded_by: "Prepositional nominals in Manx Gaelic (revised Nov. 2017)"
+  pdf: "Prepositional_nominals_in_Manx_Gaelic_2016.pdf"
+  notes: "Alongside true prepositions, such as fo ‘under’, lesh ‘with’, that are inflected with suffixes expressing personal pronoun objects (foym ‘under me’, lhiam ‘with me’, etc.), Manx has a number of expressions with broadly prepositional meaning that behave grammatically in some respects like nouns, and for the most part are derived from nouns. The personal pronoun objects of these prepositional nominals are expressed by means of possessive (genitive) constructions, as in my chooyl ‘behind me’, nyn drooid or ny hrooid oc ‘through them’. In this paper I describe the usage of twenty such items in Classical Manx (c. 1700-1850)."
+  date: 2016-10-01
+  
+- name: "Stative predicates with possessives in Classical Manx"
+  author: "Max W. Wheeler"
+  superseded_by: "Stative predicates with possessives in Classical Manx (Revised October 2017)"
+  pdf: "Stative_predicates_with_possessives_in_C_2016.pdf"
+  notes: "Manx has a small number —eight— of stative predicates that are constructed with possessive pronouns, as in ta mee my hassoo ‘I am standing’. Most of these items are undoubtedly verbal, that is, they are also constructed as ordinary verbs: cadley ‘sleeping’, lhie ‘lying’, shassoo ‘standing’, soie ‘sitting’, trostey ‘fasting’. However, taaue ‘idle’, and tost ‘silent’ do not have independent verbal uses in Manx, though their cognates in other Gaelic languages have: Sc. G. tàmh v. ‘reside, stay’ (tàmh n. ‘inactivity, idleness’), Ir. tost v. ‘fall silent’ (tost n. ‘silence’). Lomarcan ‘alone’, ‘only’ occurs only in this possessive construction, and, indeed, ny-lomarcan in the sense ‘only’ is better classified as a restrictive focusing modifier than as a predicate. As predicates of ve ‘be’, these eight stative predicate items are constructed in the same way in Classical and Modern Manx: the possessive pronoun agrees in person and number with the subject of ve. My focus here is what other constructions these predicates are found in in Classical Manx, using my corpus of texts 1700-1850 that are digitally searchable."
+  date: 2016-10-01
+  
+- name: "Counting things in the Manx Bible"
+  author: "Max W. Wheeler"
+  pdf: "Counting_things_in_the_Manx_Bible.pdf"
+  notes: "When complex numerals are used with an explicit nominal head (e.g. ‘ninety days’), an issue arises in Manx grammar in the classical period as to where in the numeral expression the noun is placed (never first, though). With numbers up to 60 there is no variation in the construction of numeral expressions. Biblical Manx and Modern Manx are the same in this respect. Above 60, while round hundreds and scores precede the nominal head (and Manx counts in scores up to 180), e.g. kiare-feed co-lhiabbagh ‘fourscore concubines’, shey-feed prince ‘120 princes’, hoght cheead bleïn ‘800 years’, for more complex numerals, there are two patterns of cardinal numeral expressions with a nominal head that can be found in the Manx Bible. Both patterns are common."
+  date: 2016-05-01
+  
+- name: "Psalmyn currit ayns Drane Ghaelgagh (1761). 'Manx singing psalms'."
+  author: "Max W. Wheeler"
+  superseded_by: "Psalmyn currit ayns Drane Ghaelgagh (1761). Manx metrical psalms. (Revised March 2019)"
+  pdf: "Psalmyn_currit_ayns_Drane_Ghaelgagh_1761_2016.pdf"
+  notes: "Text of the selection of 28 Psalms, plus a few hymns, put into Manx verse in 1761 by Robert Radcliff and Matthias Curghey, edited from the 1777 edition of the Manx Book of Common Prayer."
+  date: 2016-03-01
+  
+- name: "Lioar Phadjeragh Cadjin The Book of Common Prayer in Manx Gaelic, 1842"
+  author: "Max W. Wheeler"
+  pdf: "Lioar_Phadjeragh_Cadjin_The_Book_of_Comm_1842.pdf"
+  notes: "An edition of the 1842 (last) text of the Book of Common Prayer 'translated into Manks, for the use of the diocese of Man'. This edition omits the prescribed readings from the Bible, and the Psalms, the texts of which are available elsewhere in digital editions of the Manx Bible. Significant verbal and grammatical differences from the first (1765) edition are indicated in footnotes."
+  date: 2016-03-01
+  
+  
+- name: "Lioar Phadjeragh Cadjin The Book of Common Prayer in Manx Gaelic (1765)"
+  author: "Max W. Wheeler"
+  pdf: "Lioar_Phadjeragh_Cadjin_The_Book_of_Comm_1765.pdf"
+  notes: "The Church of England’s Book of Common Prayer with the texts to be spoken translated into Manx Gaelic was published by the Society for promoting Christian Knowledge in London in 1765. The translation was promoted by the Bishop of Sodor and Mann, Mark Hildesley, and undertaken by the Manx clergy, most particularly the Rev. Philip Moore, in conjunction with the Revv. Matthias Curghey and James Wilks, who had revised and completed the translation of the Gospels and the Acts of the Apostles, published by the S.P.C.K. in 1763. From the point of view of linguistic study, the advantage of translation literature is that the intended sense of the texts is clear. For that reason it may be valuable to make available, and searchable, as many texts as possible of the Manx translated literature of the 18th and 19th centuries. In the present edition, the original English text of the parts to be spoken is set alongside the Manx, being taken from The Book of Common Prayer..., printed by Joseph Bentham, Cambridge: University Press, 1765. The text of the Epistle and Gospel passages prescribed in the Prayer Book for reading on each Sunday and Holy day throughout the year is that same as that which was included in the Manx New Testament (1763-67) and later in the complete Bible (1771-75), which also included the Psalms as in the Prayer Book. As the text of the Manx Bible is already available in searchable form, the text of the prescribed Epistle and Gospel passages and of the Psalms is omitted here."
+  date: 2016-03-01
+  
+- name: "S'mie lhiam shen: Impersonal copular constructions in Classical Manx"
+  author: "Max W. Wheeler"
+  pdf: "Smie_lhiam_shen_Impersonal_copular_const.pdf"
+  date: 2016-01-01
+  
+- name: "Manx Gaelic inflection, 5. Verbs"
+  author: "Max W. Wheeler"
+  pdf: "Manx_Gaelic_inflection_5_Verbs.pdf"
+  notes: "This article continues the series expounding and commenting on the grammatical information to be found in Archibald Cregeen’s Dictionary of the Manks Language (1835). Here, while the forms are taken from the Dictionary (supplemented in some cases by examples from the Manx Bible), the grammatical framework and terminology is for the most part my own. The Dictionary includes some 890 verbs, and, for nearly all, Cregeen gives a considerable amount of information on inflection."
+  date: 2016-01-01
+
+
+- name: "Fockleyr Chregeen aa-orderit liorish Max W. Wheeler"
+  author: "Max W. Wheeler"
+  pdf: "Fockleyr_Chregeen_aa_orderit_liorish_Max.pdf"
+  superseded_by: "Fockleyr Chregeen aa-orderit. New edition. Feb. 2018"
+  notes: "Archibald Cregeen’s \"Dictionary of the Manks Language\" is a major work of lexicography that has been used by generations of Manx learners since its publication in 1835. The distinctive way in which the information is presented has meant, however, that some of the dictionary’s potential value is not readily apparent to the user. Both the first edition of the Dictionary (1835) and the second (1910) comprise a strictly alphabetical list of word forms, which is particularly valuable for users not entirely familiar with the nature and range of variation in the initial letter of Manx words, due to initial consonant mutations, and to the addition of consonants (such as g-, d- or n-) before certain forms of vowel-initial verbs. A consequence of this strictly alphabetical procedure, though, is that related forms of the same word, or word-family, are scattered throughout the dictionary. Thus, in a sense, Cregeen’s Dictionary as published is more like an index to a lexicon than a lexicon itself. In this re-ordering of the entries of the Dictionary, lexically related forms are grouped together under a base form or lemma. It thereby becomes possible to consider together the various inflectional forms of each item, its affixal derivatives, and the phrases and compounds containing them. The reordering depends, of course, on correctly identifying the word relationships, and I may have made some erroneous connections, and missed some links that would be appropriate. I hope users will suggest improvements in this respect. In this second edition (December 2015), the text of the citations from the Apocrypha has been included, and some errors have been corrected."
+  date: 2015-12-01
+
+
+- name: "Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’ in the Manx Bible"
+  author: "Max W. Wheeler"
+  superseded_by: "Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’ in Classical Manx (Revised 2018)"
+  pdf: "Manx_Gaelic_inflection_6_Initial_mutatio.pdf"
+  notes: "The pattern of initial mutation of verbal nouns after er in the perfect tense construction is anomalous, in that some consonants are subject only to Lenition 1, while others may undergo either Lenition 1 or Nasalization. In the Manx Bible including the Apocrypha there are enough examples of the er Perfect construction to get a good perspective on the nature and scope of the variation in question in ‘Classical’ Manx."
+  date: 2015-06-01
+  
+- name: "Manx Gaelic inflection, 4. Adjectives"
+  author: "Max W. Wheeler"
+  pdf: "Manx_Gaelic_inflection_4_Adjectives.pdf"
+  notes: "Manx adjectives may inflect for either of the categories comparative and plural, or for both, or for neither. There is no distinct superlative: comparative in Manx covers ‘comparative’ and ‘superlative’. There are two suffixes available for the comparative: -ee and -ey. The comparative suffix -ee occurs almost exclusively with adjectives containing the suffix -agh, which is replaced by -ee in the comparative (e.g. graihagh ‘loving’ - graihee ‘more loving’). Cregeen gives 334 examples of adjectives in -agh that are inflected in this way. The comparative suffix -ey is sometimes accompanied by a change in the stem it is attached to, such as syncope (loss of a medial syllable, as in mennick ‘frequent’ - menkey ‘more frequent’), a change of stem vowel similar to what takes place in some noun genitives before the suffix -ey (e.g. liauyr ‘long’ - lhiurey ‘longer’), or a suppletive stem (e.g. olk ‘bad’ - (s)messey ‘worse’). In Cregeen there are some 117 comparatives in -ey. A dozen adjectives have irregular comparative forms, not involving a suffix, but some other change in the stem (e.g. lhean ‘wide’ - lhea ‘wider’), or a completely different stem (suppletive, e.g. beg ‘small’ - (s)loo ‘smaller’). When no comparative inflection is available for an adjective, the comparative sense comes from the comparative construction itself, which is used in the same way with uninflected and inflected comparatives, as, for example, in (uninflected) t’ee ny s’costal na rubieyn ‘she is more precious than rubies’; (inflected) va ny Nazariteyn eck ny s’glenney na sniaghtey ‘her Nazarites were purer than snow’. The suffix used to make plural adjectives is also -ey. It is added to the basic singular stem (with nearly always no more than orthographic changes). Thus some adjectives that inflect with -ey for both comparative and plural show a changed stem in the comparative, but not in the plural, e.g. çhionn ‘stiff, tight’, comp. çhienney, pl. çhionney. Cregeen gives some 92 plural adjective forms."
+  date: 2015-06-01
+  
+- name: "Manx Gaelic inflection, 3. Noun paradigms"
+  author: "Max W. Wheeler"
+  pdf: "Manx_Gaelic_inflection_3_Noun_paradigms.pdf"
+  notes: "In the previous sections (§1-2) I set out what we can learn from Cregeen’s Dictionary about noun plural inflection (§1) and inflected genitive case forms (§2). Here I pursue the matter of the ways in which these two inflections can combine with the basic (nominative singular) stems to form paradigms. Five basic classes of noun paradigms (‘declensions’) can be established, according to the genitive inflection: class A: genitive in -ey, class B: genitive in -ee, class C: genitive in -agh, class D: genitive with stem change, and class E: irregular genitive. The subclasses (A1-9, B1-6, C1-8, and D1-2) correspond to how each genitive inflection interacts with the various types of plural inflection. Though there are 37 different paradigms in all in classes A-D, none of the subclasses other than those just mentioned has more than a dozen members, and many of them have only one member; there are some 17 unique paradigms (outside of class E, all of whose members are unique). It may be of some interest to language typologists that there are so many paradigms given that there are only three grammatical categories involved."
+  date: 2015-05-01
+  
+- name: "Manx Gaelic inflection, 2. Genitive case"
+  author: "Max W. Wheeler"
+  pdf: "Manx_Gaelic_inflection_2_Genitive_case.pdf"
+  notes: "Of the grammatical works on Manx Gaelic, it is A. Cregeen’s A Dictionary of the Manks Language that provides by far the most detail of inflectional morphology. And it was prepared at a time when Manx was a living community language with a large number of native speakers. In this series of studies, I attempt to extract from the dictionary Cregeen’s contribution to a descriptive grammar of ‘Classical Manx’ —the language of written texts of the period 1700-1830. The information on genitive case inflections that follows in this second section is derived from Cregeen’s Dictionary, to which have been added a handful from J. J. Kneen’s Grammar of the Manx Language. The classification of the inflectional patterns is my own. The classification is followed by extensive exemplification of genitive case usage in Cregeen’s dictionary and in the Manx Bible."
+  date: 2015-04-01
+  
+  
+- name: "Manx Gaelic inflection, 1. Noun plurals"
+  author: "Max W. Wheeler"
+  pdf: "Manx_Gaelic_inflection_1_Noun_plurals.pdf"
+  notes: "Of the grammatical works on Manx Gaelic, it is A. Cregeen’s A Dictionary of the Manks Language that provides by far the most detail of inflectional morphology. And it was prepared at a time when Manx was a living community language with a large number of native speakers. In this series of studies, I attempt to extract from the dictionary Cregeen’s contribution to a descriptive grammar of ‘Classical Manx’ —the language of written texts of the period 1700-1830. The information on plural inflections that follows in this first section is derived from Cregeen’s Dictionary, as are the meanings given. Where Cregeen mentions alternative inflections, I have added some information about usage in the Manx Bible. The classification of the inflectional patterns, however, is my own."
+  date: 2015-04-01
+  
+- name: "Cregeen’s proverbs and sayings"
+  author: "Max W. Wheeler"
+  pdf: "Cregeen_Proverbs.pdf"
+  notes: "These Manx proverbs and sayings are assembled from Archibald Cregeen, A Dictionary of the Manx Language…, Douglas: Quiggin, etc., 1835. The translations are mostly from the edition revised by J. J. Kneen and others, published in 1910, reprinted by Yn Çheshaght Ghailckagh, Ilkley: Moxon Press, 1984. I have revised the capitalization and punctuation, and added cedillas (ç), but otherwise left the 1835 spelling unchanged. Nearly all of Cregeen’s proverbs and sayings are collected, with some others, and translated, in G. W. Wood’s article mentioned in footnote 2 below. The numbers in column 3 below correspond to the numbering in Wood’s article. The symbol ~ means that the form of the proverb or saying in Wood is a little different from that in Cregeen. Where the translations differ, those of Kneen et al. are generally superior, though not always. Where Wood’s translations seem better, I have included them with the initials GWW. A few translations are my own, indicated with MW. "
+  date: 2015-01-01

@@ -8,10 +8,18 @@
     <div class="row">
 
         <ul>
-        {% for publication in site.data.index.publications %}
-            <li>{{ publication.name }} ({{ publication.author }}, {{ publication.date }})</li>
+        {% assign publicationUrl = '/static/assets/publications/' %}
+        {% assign visible_publications = site.data.index.publications | where_exp:"item", "item.hide != true" %}
+            
+        {% for publication in visible_publications limit: 10 %}
+            <li>
+                <a href="{{ publication.pdf | prepend: publicationUrl }}">
+                    {{ publication.name }} ({{ publication.author | join: "; " }}, {{ publication.date | date: "%Y" }})
+                </a>
+            </li>
         {% endfor %}
         </ul>
+        <a href="/publications">See all {{visible_publications | size}}</a>
         <div style="padding-top: 0.5em"></div>
     </div>
 </div>
