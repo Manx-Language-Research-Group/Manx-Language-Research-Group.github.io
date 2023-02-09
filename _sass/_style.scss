@@ -2037,6 +2037,10 @@ ul.clear-list:first-child {
   max-height: 110px;
 }
 
+.publication-item {
+  font-size: larger;
+}
+
 body {
   &.body-small .vote-icon {
     display: none;

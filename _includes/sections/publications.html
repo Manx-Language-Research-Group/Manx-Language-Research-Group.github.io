@@ -12,14 +12,14 @@
         {% assign visible_publications = site.data.index.publications | where_exp:"item", "item.hide != true" %}
             
         {% for publication in visible_publications limit: 10 %}
-            <li>
-                <a href="{{ publication.pdf | prepend: publicationUrl }}">
-                    {{ publication.name }} ({{ publication.author | join: "; " }}, {{ publication.date | date: "%Y" }})
-                </a>
+            <li class="publication-item">
+                ({{ publication.author | join: "; " }}, {{ publication.date | date: "%Y" }}) <a href="{{ publication.pdf | prepend: publicationUrl }}">
+                    {{ publication.name }} 
+                </a> 
             </li>
         {% endfor %}
         </ul>
-        <a href="/publications">See all {{visible_publications | size}}</a>
+        <a href="/publications" class="publication-item">View all {{visible_publications | size}}</a>
         <div style="padding-top: 0.5em"></div>
     </div>
 </div>
