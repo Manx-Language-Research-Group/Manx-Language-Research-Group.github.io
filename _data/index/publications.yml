@@ -48,7 +48,14 @@
   doc: "Carrey_yn_Pheccagh_B_as_G.docx"
   pdf: "Carrey_yn_Pheccagh_B_as_G.pdf"
   date: 2021-07-01
-  
+
+- name: "A newly identified manuscript of metrical psalms in Manx Gaelic"
+  provisional_name: true
+  author: "Max W. Wheeler"
+  doc: "Metrical_Psalms_MS_edition.docx"
+  pdf: "Metrical_Psalms_MS_edition.pdf"
+  date: 2021-06-01
+
 - name: "Banglaneyn Credjue Agglish Hostyn. The 39 Articles of the Church of England in Manx Gaelic, 1822"
   author: "Max W. Wheeler"
   doc: "Banglaneyn.docx"
