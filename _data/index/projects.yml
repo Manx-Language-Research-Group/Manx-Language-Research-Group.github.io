@@ -2,20 +2,19 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Manx Corpus Search
-  i18n: jalpc
+  i18n: manx_corpus
   gh_user: david-allison
   repo: manx-search-data
   img: /static/assets/img/landing/corpus_logo.png
   url: https://corpus.gaelg.im
-  # not when we have 0 stars!
   showRepo: false
   desc: The world's largest collection of computer-readable bilingual texts and audio transcriptions for the Manx Language.
 
 - name: Manx Website Archives
-  i18n: archive
+  i18n: manx_archive
   img: /static/assets/img/landing/manx_archive_phil_kelly.gif
   url: https://archive.gaelg.im/www.gaelg.iofm.net/EMENU.html
   # not when we have 0 stars!
   showRepo: false
-  desc: Archive of Phil Kelly's gaelg.iofm.net website (c. 2004) 
+  desc: Archive of Phil Kelly's gaelg.iofm.net website (c. 2004)
 

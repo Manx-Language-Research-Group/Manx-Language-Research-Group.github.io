@@ -18,9 +18,8 @@
   },
   "projects":{
     "my_projects": "Our Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "manx_corpus": "The world's largest collection of computer-readable bilingual texts and audio transcriptions for the Manx Language.",
+    "manx_archives": "Archive of Phil Kelly's gaelg.iofm.net website (c. 2004)"
   },
   "career":{
     "my_career": "My Career",
