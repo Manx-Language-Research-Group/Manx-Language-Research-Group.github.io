@@ -30,4 +30,8 @@
   <!-- Main Scripts -->
   <script src="{{"/static/assets/app-20230210.min.js"| prepend: site.baseurl }}"></script>
   <script src="{{"/static/assets/blog-20230210.min.js"| prepend: site.baseurl }}"></script>
+
+  {% if site.data.index.language %}
+  <script src="{{"/static/assets/i18-20230210.min.js"| prepend: site.baseurl }}"></script>
+  {% endif %}
 </head>
