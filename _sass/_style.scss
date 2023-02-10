@@ -2041,6 +2041,15 @@ ul.clear-list:first-child {
   font-size: larger;
 }
 
+.publication-all {
+  display: inherit;
+  text-align: center;
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+  font-size:large;
+  font-weight: bold;
+}
+
 .pdf-icon {
   background: url(/static/assets/img/Icon_pdf_file.png) no-repeat right;
   padding: 8px 20px 8px 0;
