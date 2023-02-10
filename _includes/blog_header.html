@@ -21,7 +21,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a>
+                <a class="navbar-brand" id="i18_title" href="{{ "/" | prepend: site.baseurl }}">
+                    <span data-i18n="website.title">
+                        {{ site.title }}
+                    </span>
+                </a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
